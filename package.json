@@ -1,0 +1,17 @@
+{
+  "name": "csv_convertor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "dotenv": "^14.3.0",
+    "node-xlsx": "^0.21.0"
+  }
+}
